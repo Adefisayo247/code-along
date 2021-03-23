@@ -1,1 +1,1 @@
-https://adefisayo247.github.io/Loop-Practice/Loop-practical/loop.html
+https://adefisayo247.github.io/code-along/Code-along/index.html
